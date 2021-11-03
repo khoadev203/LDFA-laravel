@@ -1,0 +1,1 @@
+Hi! Your order for {{$certificate->quantity}} {{$certificate->cert_type}}(s) are delivered!
